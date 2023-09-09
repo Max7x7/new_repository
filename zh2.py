@@ -3,7 +3,7 @@ import requests
 import base64
 import json
 
-access_token = "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"
+access_token = "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"
 repository_name = "new_repository"
 folder_path = "/home/rompvmrix/zip"
 username = "Max7x7"
